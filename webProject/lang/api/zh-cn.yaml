@@ -1,0 +1,11 @@
+Error:
+  Business: "业务异常"
+  LEVEL2:
+    LEVEL3: "test"
+
+Success:
+  Ping: "当前时间:%s"
+
+Validate:
+  User:
+    InsertDefeat : "新增用户失败；"
